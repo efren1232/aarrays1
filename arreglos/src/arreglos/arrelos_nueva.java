@@ -3,6 +3,10 @@ package arreglos;
 public class arrelos_nueva {
 
 	public static void main(String[] args) {
+		
+		
+		//son algunos de los archivos que podemos editarlos siemprex
+		
 		/* Ejemplos
 		int[]edad = new int[4]; //---podemos almacenar 4 areglos
 		long[]edad = new long[4];
